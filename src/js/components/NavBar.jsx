@@ -3,7 +3,7 @@ import React from "react";
 export const NavBar = () => {
 
     return (
-        <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav className="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
             <div className="container">
 
                 <a className="navbar-brand fw-bold" href="#">Start Bootstrap</a>
